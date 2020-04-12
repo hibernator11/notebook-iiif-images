@@ -1,10 +1,10 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/notebook-marc-csv-example/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/notebook-iiif-images/master)
 
-## Digital collection 
-This dataset is based on the descriptive metadata from the [Moving Image Archive catalogue](https://data.nls.uk/data/metadata-collections/moving-image-archive/), which is Scotland’s national collection of moving images.
+# accessing-iiif-smithsonian
+Example notebook to extract a dataset as a CSV file from the Smithsonian Open Access digital collection. This example performs an automatic search, retrieving the manifests from the IIIF server to create a dataset with the metadata as a CSV file.
 
-# notebook-marc-csv-example
-Example notebook to extract a dataset as a CSV file from a digital collection described using marc xml files.
+## Requirements
+The Open Access API requires an API key to access the endpoints. Please register with https://api.data.gov/signup/ to get a key.
 
 # References
-The [GLAM Workbench](https://glam-workbench.github.io/) has been used as inspiration to create this example. In particular, the notebook [Exploring metadata harvested from the Tribune negative collection in the State Library of NSW](https://nbviewer.jupyter.org/github/GLAM-Workbench/ozglam-data-records-of-resistance/blob/master/Exploring-Tribune-negatives-metadata.ipynb).
+[Smithsonian Open Access](https://www.si.edu/openaccess)
