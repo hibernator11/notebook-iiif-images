@@ -1,13 +1,17 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/notebook-iiif-images/master)
 
 # notebook-iiif-images
-These jupyter notebooks are based on IIIF repositories in order to extract metadata and images, creating a CSV file representing de dataset as a result.
+GLAM institutions are starting to adopt new technology and services to provide access to image-based resources in order to encourage research, scholarship and the transmission of cultural knowledge. The International Image Interoperability Framework [IIIF](https://iiif.io/) aims to set of common application programming interfaces that support interoperability between image repositories.
+
+The jupyter notebooks provided in this projectt are based on IIIF repositories in order to extract metadata and images, creating a CSV file representing de dataset as a result. These are examples of exploitation that can serve as a basis for further development.
 
 ## accessing-iiif-smithsonian
 Example jupyter notebook to extract a dataset as a CSV file from the Smithsonian Open Access digital collection. This example performs an automatic search, retrieving the manifests from the IIIF server to create a dataset with the metadata as a CSV file.
 
 ## accessing-iiif-europeana
 Example jupyter notebook to extract a dataset as a CSV file using the Europeana APIs. This example performs an automatic search, retrieving the manifests from the IIIF server to create a dataset with the metadata as a CSV file. It also includes a code to show the thumbnails as a gallery.
+
+This example shows how to navigate the collection using the API by means of the manifest, annotations and full text resources.
 
 ## Requirements
 The Open Access API requires an API key to access the endpoints. Please register with https://api.data.gov/signup/ to get a key.
