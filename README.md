@@ -1,5 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/notebook-iiif-images/master)
 
+[![DOI](https://zenodo.org/badge/255172461.svg)](https://zenodo.org/badge/latestdoi/255172461)
 
 # notebook-iiif-images
 GLAM institutions are starting to adopt new technology and services to provide access to image-based resources in order to encourage research, scholarship and the transmission of cultural knowledge. The International Image Interoperability Framework [IIIF](https://iiif.io/) aims to set of common application programming interfaces that support interoperability between image repositories.
