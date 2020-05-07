@@ -13,14 +13,13 @@ This [notebook](accessing-iiif-smithsonian.ipynb) extracts a dataset as a CSV fi
 In addition, this example applies computer vision methods in face detection.
 
 ## accessing-iiif-europeana
-This jupyter notebook extracts a dataset as a CSV file using the Europeana APIs. This example performs an automatic search, retrieving the manifests from the IIIF server to create a dataset with the metadata as a CSV file. It also includes a code to show the thumbnails as a gallery.
+This [notebook](accessing-iiif-europeana.ipynb) extracts a dataset as a CSV file using the Europeana APIs. This example performs an automatic search, retrieving the manifests from the IIIF server to create a dataset with the metadata as a CSV file. It also includes a code to show the thumbnails as a gallery.
 
 This example shows how to navigate the collection using the API by means of the manifest, annotations and full text resources.
 
 ## accessing-iiif-ugent
-This jupyter notebook extracts a dataset as a CSV file from the UGent libraries collection. This example performs an automatic search, retrieving the manifests from the IIIF server to create a dataset with the metadata as a CSV file. The content used in this notebook is based on *la Russie illustrée* which is a periodical with 15 volumes and 748 issues. The digital content can be retrieved [here](https://lib.ugent.be/viewer/collection/RUG01-001643403#?c=&m=&s=&cv=&xywh=-2290%2C-224%2C7504%2C4200). 
+This [notebook](accessing-iiif-ugent.ipynb) extracts a dataset as a CSV file from the UGent libraries collection. This example performs an automatic search, retrieving the manifests from the IIIF server to create a dataset with the metadata as a CSV file. The content used in this notebook is based on *la Russie illustrée* which is a periodical with 15 volumes and 748 issues. The digital content can be retrieved [here](https://lib.ugent.be/viewer/collection/RUG01-001643403#?c=&m=&s=&cv=&xywh=-2290%2C-224%2C7504%2C4200). 
 
-This example is mainly focused on images providing a gallery to view the them.
 
 ## Requirements
 The Open Access API requires an API key to access the endpoints. Please register with https://api.data.gov/signup/ to get a key.
