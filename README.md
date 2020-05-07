@@ -8,7 +8,7 @@ GLAM institutions are starting to adopt new technology and services to provide a
 The jupyter notebooks provided in this project while being based on IIIF repositories, extract metadata and images, creating a CSV file representing the dataset as a result. These are examples of exploitation that can serve as a basis for further development.
 
 ## accessing-iiif-smithsonian
-This [notebook](accessing-iiif-smithsonian.ipynb) extracts a dataset as a CSV file from the [Smithsonian Open Access] (https://www.si.edu/openaccess) digital collection. This example performs an automatic search, retrieving the manifests from the IIIF server to create a dataset with the metadata as a CSV file.
+This [notebook](accessing-iiif-smithsonian.ipynb) extracts a dataset as a CSV file from the [Smithsonian Open Access](https://www.si.edu/openaccess) digital collection. This example performs an automatic search, retrieving the manifests from the IIIF server to create a dataset with the metadata as a CSV file.
 
 In additon, this example applies computer vision methods in face detection.
 
