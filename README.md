@@ -12,6 +12,7 @@ This [notebook](accessing-iiif-smithsonian.ipynb) extracts a dataset as a CSV fi
 
 In this example, images are treated as an standard NumPy array containing pixels of data points. This notebooks presents an example of face detection based on an image from the repository.
 
+![Face detection](http://data.cervantesvirtual.com/blog/wp-content/uploads/2020/05/faces-smithsonian-388x220.png)
 
 
 ## accessing-iiif-europeana
