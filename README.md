@@ -26,5 +26,5 @@ The Open Access API requires an API key to access the endpoints. Please register
 Europeana IIIF APIs requires an API key to access the endpoints. Please register with https://pro.europeana.eu/page/get-api to get a key.
 
 # References
-[Smithsonian Open Access](https://www.si.edu/openaccess)
-[Europeana APIs](https://pro.europeana.eu/page/iiif)
+*[Smithsonian Open Access](https://www.si.edu/openaccess)
+*[Europeana APIs](https://pro.europeana.eu/page/iiif)
