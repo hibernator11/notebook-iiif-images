@@ -12,7 +12,7 @@ This [notebook](https://nbviewer.jupyter.org/github/hibernator11/notebook-iiif-i
 
 In this example, images are treated as an standard NumPy array containing pixels of data points. This notebooks presents an example of face detection based on an image from the repository.
 
-![Face detection](http://data.cervantesvirtual.com/blog/wp-content/uploads/2020/05/faces-smithsonian-388x220.png)
+![Face detection](https://data.cervantesvirtual.com/images/notebooks/faces-smithsonian-388x220.png)
 
 
 ## accessing-iiif-europeana
