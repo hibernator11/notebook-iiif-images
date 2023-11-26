@@ -1,4 +1,4 @@
-pymarc==4.0.0
+pymarc==4.2.1
 regex==2018.1.10
 pandas
 datapackage>=1.0,<2.0
