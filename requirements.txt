@@ -4,3 +4,4 @@ pandas
 datapackage>=1.0,<2.0
 matplotlib==2.2.4
 opencv-python==3.4.0.14
+numpy==1.21.2
