@@ -3,4 +3,4 @@ regex==2018.1.10
 pandas
 datapackage>=1.0,<2.0
 matplotlib==2.2.4
-opencv-python==3.4.0.14
+opencv-python==4.2.0.32
